@@ -5,9 +5,13 @@ I’m a full-stack developer who’s passionate about creativity, problem-solvin
 ---
 
 ## 🌱 **What I’m Working On**
-- Enhancing features for an e-commerce platform at **Riqra**
+- Enhancing features for an e-commerce platform at **HeyCiro**
 - Exploring cool new ways to apply AI on the web
 ---
+
+## 💼 **Work Experience**
+- **Full-Stack Developer** HeyCiro — BI dashboard
+- **Full-Stack Developer** Riqra — e-commerce platform, feature dev
 
 ## 🎓 **Education**
 - I have a Bachelor's degree in **Computer Science** from [Universidad Nacional de Ingeniería](https://portal.uni.edu.pe/), Peru.
